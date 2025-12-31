@@ -215,7 +215,3 @@ sudo systemctl restart wazuh-manager
 
 
 When you click the "Dashboard" button in Teams, you will be redirected to the "Threat Hunting Events" section in Wazuh, automatically filtered to show events for the agent related to the alert.
-
-## Contributing
-
-Contributions, feedback, and pull requests are welcome! Please open an issue or create a PR.
